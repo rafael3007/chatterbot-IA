@@ -1,0 +1,21 @@
+{
+    "conversas": [
+        
+        {
+            "mensagens": [ "cardápio?", "qual o cardápio?","mande o cardápio","mande o cardápio, por favor","cardápio","me dê o cardápio","me dê o cardápio, por favor","cardapio, por favor" ],
+            "resposta": "Temos:\n1) Coxinhas ( R$ 1,50 )\n2) Quibes ( R$ 1,00 )\n3) Pastéis de forno ( R$ 1,50 )\n4) Empadas ( R$ 1,00 )"
+        },
+        {
+            "mensagens": [ "qual o horário de funcionamento?", "que horas vocês ficam abertos?","até horas vocês ficam abertos?","até horas vocês funcionam?" ],
+            "resposta": "O estabelecimento, Raff's salgados, funciona pela noite, das 18:00 até 00:00"
+        },
+        {
+            "mensagens": [ "qual o tempo de preparo?", "demora muito pra ficar pronto?", "vai demorar pra ficar pronto?","vai demorar para ficar pronto?","demora muito para ficar pronto?"],
+            "resposta": "O tempo médio de preparo é de 5minutos, ficará pronto em instantes, só um momento."
+        },
+        {
+            "mensagens": [ "qual o tempo de entrega?", "demora muito pra chegar?", "demora muito para chegar?", "vai demorar pra entregar?", "vai demorar para entregar?"],
+            "resposta": "A entrega varia de acordo a distância, porém em média levamos 10 minutos para entregar o pedido"
+        }
+    ]
+}
