@@ -9,7 +9,7 @@ CONVERSAS = [
 
 
 def iniciar():
-    robo = ChatBot("Robô de Atendimento do IFBA")
+    robo = ChatBot("Robô de Atendimento Raff's")
     treinador = ListTrainer(robo)
 
     return treinador

@@ -1,6 +1,5 @@
 {
     "conversas": [
-        
         {
             "mensagens": [ "cardápio?", "qual o cardápio?","mande o cardápio","mande o cardápio, por favor","cardápio","me dê o cardápio","me dê o cardápio, por favor","cardapio, por favor" ],
             "resposta": "Temos:\n1) Coxinhas ( R$ 1,50 )\n2) Quibes ( R$ 1,00 )\n3) Pastéis de forno ( R$ 1,50 )\n4) Empadas ( R$ 1,00 )"
