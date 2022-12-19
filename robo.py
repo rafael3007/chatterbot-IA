@@ -1,7 +1,7 @@
 from chatterbot import ChatBot
 from difflib import SequenceMatcher
 
-CONFIANCA_MINIMA = 0.50
+CONFIANCA_MINIMA = 0.4
 
 
 def comparar_mensagens(mensagem_digitada, mensagem_candidata):
@@ -32,11 +32,11 @@ def iniciar():
 
 def executar_robo(robo):
     while True:
-        mensagem = input("Raff's: Como posso te ajudar?. \n")
+        mensagem = input("Raff's:Eu me chamo Raff's e irei te auxliar hoje! Como posso te ajudar?. \n")
         resposta = robo.get_response(mensagem.lower())
         #print(f"o valor da confiança é: {resposta.confidence}")
         if resposta.confidence >= CONFIANCA_MINIMA:
-            print(">>", resposta.text)
+            print("Raff's>>", resposta.text)
         else:
             print("Raff's: Infelizmente, ainda não sei responder isso")
             print("Raff's: Pergunte outra coisa")

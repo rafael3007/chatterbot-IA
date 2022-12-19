@@ -1,20 +1,20 @@
 {
     "conversas": [
         {
-            "mensagens": [ "oi", "olá", "tudo bem?" ],
-            "resposta": "Olá, sou o Raff's, um robô de atendimento. Como posso te ajudar?"    
+            "mensagens": [ "oi", "ola", "tudo bem?" ],
+            "resposta": "Ola, sou o Raff's, um robo de atendimento. Como posso te ajudar?"    
         },
         {
             "mensagens": ["bom dia"],
-            "resposta": "Bom dia, sou o Raff's, um robô de atendimento. Como posso te ajudar?"
+            "resposta": "bom dia, sou o Raff's, um robo de atendimento. Como posso te ajudar?"
         },
         {
             "mensagens": ["boa tarde"],
-            "resposta": "Bom tarde, sou o Raff's, um robô de atendimento. Como posso te ajudar?"
+            "resposta": "boa tarde, sou o Raff's, um robo de atendimento. Como posso te ajudar?"
         },
         {
             "mensagens": ["boa noite"],
-            "resposta": "Boa noite, sou o Raff's, um robô de atendimento. Como posso te ajudar?"
+            "resposta": "boa noite, sou o Raff's, um robo de atendimento. Como posso te ajudar?"
         }
     ]
 }

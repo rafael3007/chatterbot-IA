@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "cardapio", "qual o cardapio?","mande o cardapio","mande o cardapio, por favor","cardapio","me de o cardapio","me dê o cardápio, por favor","cardapio, por favor" ],
+            "resposta": "Temos:\n1) Coxinhas ( R$ 1,50 )\n2) Quibes ( R$ 1,00 )\n3) Pasteis de forno ( R$ 1,50 )\n4) Empadas ( R$ 1,00 )"
+        },
+        {
+            "mensagens": ["a coxinha é de que?","tem coxinha de que?","tem coxinha de frango?"],
+            "resposta": "A coxinha é de frango, temos com e sem catupiry."
+        },
+        {
+            "mensagens": ["a empada é de que?","tem empada de que?","tem empada de frango?"],
+            "resposta": "A empada é de frango, temos de bacalhau mas já acabou."
+        },
+        {
+            "mensagens": ["o pastel é de que?","tem pastel de que?","tem pastel de frango?","o pastel de forno é de que?","tem pastel de forno de que?","tem pastel de forno de frango?"],
+            "resposta": "O pastel é de frango."
+        }
+    ]
+}
